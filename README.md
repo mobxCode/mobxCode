@@ -5,9 +5,3 @@ Github Statistics
 <img src="https://activity-graph.herokuapp.com/graph?username=mobxCode&theme=cobalt&&border_radius=20">
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/mobxCode/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>
